@@ -1,4 +1,4 @@
-# PRFILE GENERAL IDEA
+# PROFILE GENERAL IDEA
 Mi idea general para el profile fue coger el eje de las X y subdividirlo en listas más pequeñas (de la longitud que queramos). Una vez tengamos esas sublistas, 
 podemos hacer la media de sus valores y usar como nuevo punto en X esa media, de manera que así podemos hacer un Scatter de la media de las Y's frente la media de 
 las X's (porque es un scatter normal no podemos representar valores frente a sublistas).
